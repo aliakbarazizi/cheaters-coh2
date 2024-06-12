@@ -29,7 +29,7 @@ The *Company of Heroes 2* community has been vocal about these issues:
 
 | Cheater Name | Steam ID         | Proof |
 |--------------|------------------|-------|
-
+| Cheater1     | 1234567890123456 | [PR#1](link to PR) |
 
 ### Contributing
 
