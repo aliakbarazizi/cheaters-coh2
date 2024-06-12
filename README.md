@@ -19,12 +19,6 @@ Cheaters use the above bugs in the following ways:
 - **Commander Exploit:** Grants access to powerful commanders that are not available to the player legitimately.
 - **Drop Hack Exploit:** Disconnects opponents from the game, unfairly awarding a win to the cheater.
 
-### Community Response
-
-The *Company of Heroes 2* community has been vocal about these issues:
-- **Supporters:** X number of players have shown support for fixing these bugs.
-- **Forums and petitions:** Links to community discussions and petitions.
-
 ### List of Known Cheaters
 
 | Cheater Name | Steam ID         | Proof |
