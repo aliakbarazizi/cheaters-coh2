@@ -11,13 +11,7 @@ Here, we describe the major bugs in *Company of Heroes 2* that are commonly expl
 1. **Map Hacking:** Allows players to see the entire map and enemy positions. [More Info](https://www.unknowncheats.me/forum/other-mmorpg-and-strategy/472523-company-heroes-2-sp-mp-tools.html)
 2. **Commander Exploit:** Enables players to use other factions commanders. [More Info](https://youtu.be/2agdO5bnw_A)
 3. **Drop Hack:** Forces opponents to disconnect, causing them to lose the match. (No source yet)
-
-### How Cheaters Exploit These Bugs
-
-Cheaters use the above bugs in the following ways:
-- **Map Hacking Exploit:** Reveals enemy units and strategies by displaying the entire map.
-- **Commander Exploit:** Grants access to powerful commanders that are not available to the player legitimately.
-- **Drop Hack Exploit:** Disconnects opponents from the game, unfairly awarding a win to the cheater.
+4. **Use OKW truck as other factions:** Allow OKW player to give to give OKW tech truck to other players and allow them to use OKW techs and build and use OKW units and abilities. [More Info](https://youtu.be/B-8BJXBpL78)
 
 ### List of Known Cheaters
 
